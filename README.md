@@ -44,9 +44,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuMariane/JuMariane/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuMariane/JuMariane/output/github-contribution-grid-snake.svg" />
-  <img alt="cobrinha comendo contribuições" src="https://raw.githubusercontent.com/JuMariane/JuMariane/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ponjjar/ponjjar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ponjjar/ponjjar/output/github-contribution-grid-snake.svg" />
+  <img alt="cobrinha comendo contribuições" src="https://raw.githubusercontent.com/ponjjar/ponjjar/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
 
