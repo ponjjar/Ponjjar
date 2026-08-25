@@ -11,9 +11,10 @@
     <img src="https://img.shields.io/badge/Portfolio-7070e3?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
+
 ### 🚀 About Me:
-- 🏦 **Caique Ponjjar** | Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 Building scalable frontend systems, cloud-native applications and AI-assisted workflows.
+- **Caique Ponjjar** | Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- Building scalable frontend systems, cloud-native applications and AI-assisted workflows.
 - 💬 **Engineering Focus**:
   - 📐 Scalable Frontend Architecture
   - ⚡ Performance Engineering
