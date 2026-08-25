@@ -3,7 +3,14 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&letterSpacing=center&pause=1000&color=F7B500&center=true&vCenter=true&width=435&lines=Caique+Ponjjar!;Software+Engineer!" alt="Typing SVG" /></a>
 </div>
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/caiqueponjjar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://ponjjar.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7070e3?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
 ### 🚀 About Me:
 - 🏦 **Caique Ponjjar** | Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 Building scalable frontend systems, cloud-native applications and AI-assisted workflows.
