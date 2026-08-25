@@ -12,18 +12,12 @@
   </a>
 </div>
 
-### 🚀 About Me:
+### About Me:
 - **Caique Ponjjar** | Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Building scalable frontend systems, cloud-native applications and AI-assisted workflows.
-- 💬 **Engineering Focus**:
-  - 📐 Scalable Frontend Architecture
-  - ⚡ Performance Engineering
-  - 🛡️ Software Quality & Automation
-  - 🤖 AI-Assisted Engineering
-  - ☁️ Cloud & Observability
 
 
-### 🛠️ Tech Stack:
+### Tech Stack:
 
 * **Frontend**: `React` · `Next.js` · `TypeScript` · `Redux` · `TanStack`
 * **Backend & Data**: `Node.js` · `PostgreSQL` · `REST APIs`
